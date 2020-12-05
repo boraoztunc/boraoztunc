@@ -6,7 +6,7 @@ You can find me on <a class="goto-social" href="https://www.linkedin.com/in/bora
 
 ### currently
 
-I'm building a product design studio, <b><a class="goto-social" href="https://1984.design/" target="_blank">1984 Design Corp.</a></b> giving wide scope of UX and product design services to clients mostly in UK & US. Also making <a class="goto-social" href="https://remotejobs.center/" target="_blank">Remote Jobs Center</a> as a side project, publish weekly newsletters with a <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and also curating a huge archive (1500+) of resources in the <a class="goto-social" href="https://resources.remotejobs.center/" target="_blank">Design Resources Center</a>.
+I'm building a product design studio, <b><a class="goto-social" href="https://1984.design/" target="_blank">1984 Design Corp.</a></b> giving wide scope of UX and product design services to clients mostly in UK & US. Also making <a class="goto-social" href="https://remotejobs.center/" target="_blank">Remote Jobs Center</a> as a side project, publishing weekly newsletters with a <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and also curating a huge archive (1500+) of resources in the <a class="goto-social" href="https://resources.remotejobs.center/" target="_blank">Design Resources Center</a>.
 
 ### this repository
 
