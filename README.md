@@ -6,7 +6,7 @@ You can find me on <a class="goto-social" href="https://www.linkedin.com/in/bora
 
 ### Currently
 
-Currently, I'm building a product design and development studio; <a class="goto-social" href="https://1984.design" target="_blank">1984</a>. We are working with brands, startups, and entrepreneurs to build visionary digital experiences, from concept to scale.
+Currently, I'm building a product design and development studio; <a class="goto-social" href="https://1984.design" target="_blank">1984</a>, and working with brands, startups, and entrepreneurs to build visionary digital experiences, from concept to scale.
 
 As a side-project, I'm making <a class="goto-social" href="https://remotejobs.center" target="_blank">Remote Jobs Center</a>, curating UX resources and publishing the <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>.
 
