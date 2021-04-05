@@ -6,7 +6,7 @@ Recently founded <a class="goto-social" href="https://1984.design" target="_blan
 
 I love making side-projects. Active ones are; 
 
-✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of design resources, with the monthly <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a> for hundreds of designers and makers.
+✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of design resources, with the monthly <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>, used by hundreds of designers and makers.
 
 ✤ <a href="https://totravelistolive.co" target="_blank">to travel is to live</a> has long years of <a href="https://totravelistolive.co/stories/" target="_blank">inspiring stories</a> with carefully curated visual arts, films, photographs, paintings, and <a href="https://totravelistolive.co/music/" target="_blank"> music collections</a>.
 
