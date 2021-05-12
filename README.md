@@ -1,12 +1,12 @@
 # hello world. 👋
 
-I'm a multidisciplinary designer who conceives creative concepts, creates branding projects from the ground up and translates them into compelling visual experiences by developing ideas, providing quality art and creative direction, profesionally since 2007.
+I'm a multidisciplinary designer who conceives creative concepts, creates branding projects from the ground up and translates them into compelling visual experiences by developing ideas, providing quality art and creative direction. I build for brands that inform, entertain and inspire with 14+ years of experience.
 					
-Recently founded <a class="goto-social" href="https://1984.design" target="_blank">1984</a>, a product design and development agency, where I work as a product designer. With a fully-distributed team, we are working with global brands, startups, and entrepreneurs to build visionary digital experiences, from concept to scale.
+✤ Currently working <a class="goto-social" href="https://1984.design" target="_blank">@1984</a> as a product designer. With a fully-distributed team, we are working with global brands, startups, and entrepreneurs to build digital experiences, from concept to scale.
 
-I love making side-projects. Active ones are; 
+I love making side-projects.
 
-✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of design resources, with the monthly <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>, used by hundreds of designers and makers.
+✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of design resources, with <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>, used by hundreds of designers and makers.
 
 ✤ <a href="https://totravelistolive.co" target="_blank">to travel is to live</a> has long years of <a href="https://totravelistolive.co/stories/" target="_blank">inspiring stories</a> with carefully curated visual arts, films, photographs, paintings, and <a href="https://totravelistolive.co/music/" target="_blank"> music collections</a>.
 
