@@ -14,6 +14,8 @@ And I love making side-projects.
 
 ✤ <a href="https://crap.house" target="_blank">Craphouse</a> is an audio space for chatting, brainstorming, debating, or any crap you want to talk about.
 
+✤ <a href="https://www.behance.net/gallery/119094491/-Creative-Minds" target="_blank">Creative Minds</a> is growing with creative sessions, where I collaborate with folks from other agencies, making video editing, sound mix, illustration to sharpen our skills and spark inspiration. 
+
 > **Work in progress: <a href="https://uxdesignmethodology.com" target="_blank">UX Design Methodology</a>**, a deep archive of user experience design processes.
 In this rabbit hole, you'll find all the information connected with each other via bio-directional links, graphs that is related one another, and learn how to ✚ Understand, ✚ Define, ✚ Ideate, ✚ Execute, ✚ Validate with definitions, explanations, resources and examples, gain the knowledge of designing like Don Norman.
 
