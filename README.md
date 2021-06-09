@@ -2,15 +2,20 @@
 
 I'm a multidisciplinary designer who conceives creative concepts, creates branding projects from the ground up and translates them into compelling visual experiences by developing ideas, providing quality art and creative direction. I build for brands that inform, entertain and inspire with 14+ years of experience.
 					
-✤ Currently working <a class="goto-social" href="https://1984.design" target="_blank">@1984</a> as a product designer. With a fully-distributed team, we are working with global brands, startups, and entrepreneurs to build digital experiences, from concept to scale.
+Currently working <a class="goto-social" href="https://1984.design" target="_blank">@1984</a> as a product designer. With a fully-distributed team, we are working with global brands, startups, and entrepreneurs to build digital experiences, from concept to scale.
 
-I love making side-projects.
+And I love making side-projects.
 
-✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of design resources, with <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>, used by hundreds of designers and makers.
+✤ <a href="https://remotejobs.center" target="_blank">Remote Jobs Center</a> is a huge source of UX/product design, with <a class="goto-social" href="https://newsletter.remotejobs.center" target="_blank">Design Newsletter</a> and <a class="goto-social" href="https://resources.remotejobs.center" target="_blank">Design Resources Center</a>, used by hundreds of designers and makers.
 
-✤ <a href="https://totravelistolive.co" target="_blank">to travel is to live</a> has long years of <a href="https://totravelistolive.co/stories/" target="_blank">inspiring stories</a> with carefully curated visual arts, films, photographs, paintings, and <a href="https://totravelistolive.co/music/" target="_blank"> music collections</a>.
+✤ <a href="https://totravelistolive.co" target="_blank">to travel is to live</a> has long years of <a href="https://totravelistolive.co/stories/" target="_blank">inspiring stories</a> with carefully curated visual arts; films, photographs, paintings, and <a href="https://totravelistolive.co/music/" target="_blank"> music collections</a>.
 
-✤ <a href="https://echoesapp.io" target="_blank">Echoes</a> is a web app where you can connect your music streaming service, currently build on Spotify APIs and SDKs, explore your listening habits, and discover more amazing music.
+✤ <a href="https://echoesapp.io" target="_blank">Echoes</a> is a web app for exploring music listening habits, and discover more amazing music.
+
+✤ <a href="https://crap.house" target="_blank">Craphouse</a> is an audio space for chatting, brainstorming, debating, or any crap you want to talk about.
+
+> **Work in progress: <a href="https://uxdesignmethodology.com" target="_blank">UX Design Methodology</a>**, a deep archive of user experience design processes.
+In this rabbit hole, you'll find all the information connected with each other via bio-directional links, graphs that is related one another, and learn how to ✚ Understand, ✚ Define, ✚ Ideate, ✚ Execute, ✚ Validate with definitions, explanations, resources and examples, gain the knowledge of designing like Don Norman.
 
 You can find me on <a class="goto-social" href="https://www.linkedin.com/in/boraoztunc/" target="_blank">LinkedIn</a>, my work on <a class="goto-social" href="https://www.behance.net/boraoztunc" target="_blank">Behance</a>, <a class="goto-social" href="https://vimeo.com/boraoztunc" target="_blank">Vimeo</a>, <a href="https://dribbble.com/boraoztunc" class="goto-social" target="_blank">Dribbble</a>, various interests on my <a href="https://blog.boraoztunc.net/" class="goto-social" target="_blank">Tumblr Blog</a>.
 
