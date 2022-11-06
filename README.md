@@ -1,6 +1,7 @@
 # hello world. 👋
 
-I'm a multidisciplinary designer, self-motivated individual, and an original thinker who conceives creative concepts, makes projects from the ground up and translates them into compelling experiences by developing ideas, providing quality art and creative direction. I build brands that inform, entertain and inspire with 15+ years of experience.
+I'm an entrepreneur by passion and generalist by nature. I develop creative concepts, make projects from the ground up and translate them into compelling visual experiences by generating ideas, quality art and creative direction. I build brands that inform, entertain and inspire with 15+ years of experience.
+
 
 ### Projects
 
