@@ -5,7 +5,7 @@ I'm an entrepreneur by passion and generalist by nature. I develop creative conc
 
 ### Current Projects
 
-✤ <a class="goto-social" href="https://1984.design" target="_blank">1984.design</a> is a knowledge platform helping designers feel inspired and make better design decisions, including UX Design Methodology, The Cognitive Bias Codex and Design for a Better World.
+✤ <a class="goto-social" href="https://1984.design" target="_blank">1984.design</a> is a membership website with educational design content and resources for designers to help them feel inspired and make better design decisions. Including UX Design Methodology, The Cognitive Bias Codex and Design for a Better World.
 			   			
 ✤ <a class="goto-social" href="https://moe.travel" target="_blank">Moe</a> is a global marketplace for booking eco-friendly vacation rentals. We provide our guests more meaningful, sustainable ways to explore the world and educate our hosts how to apply sustainability to their businesses.
 								
