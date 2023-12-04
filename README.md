@@ -1,6 +1,6 @@
 # hello world. 👋
 
-As a senior designer and maker, I've been working independently for over 16 years, and have extensive knowledge in designing brandings and creating digital products.
+As a senior designer and maker, I've been working independently for over 16 years, and have extensive knowledge of creating brands and designing digital products.
 
 
 ### Active side projects
