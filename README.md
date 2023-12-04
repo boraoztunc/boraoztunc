@@ -1,11 +1,11 @@
 # hello world. 👋
 
-As a senior designer and maker, I've been working independently for over 16 years, and have extensive knowledge and experience in Digital Product Design, Brand Identity Design, Video Editing & Production. I build brands and create scalable digital products that accelerate business value.
+As a senior designer and maker, I've been working independently for over 16 years, and have extensive knowledge in designing brandings and creating digital products.
 
 
 ### Active side projects
 
-✤ <a class="goto-social" href="https://1984.design" target="_blank">1984.design</a> was born out of my desire to help creative professionals elevate their work through design thinking and intentional growth. I believe if it is design that got us here, design can get us out. I publish articles and create educational materials about user experience design methods and how to work with humane technology. You can read the articles on <a href="https://borakaizen.medium.com/" target="_blank">Medium</a> and my newsletter <a href="https://www.linkedin.com/newsletters/design-for-a-better-world-6890216771614564353/" target="_blank">Design for a Better World</a>.
+✤ <a class="goto-social" href="https://1984.design" target="_blank">1984.design</a> was born out of my desire to help creative professionals elevate their work through design thinking and intentional growth. I believe if it is design that got us here, design can get us out. I publish articles and create educational materials about user experience design methods and how to work with humane technology. You can read the articles on <a href="https://borakaizen.medium.com/" target="_blank">Medium</a> and <a href="https://www.linkedin.com/newsletters/design-for-a-better-world-6890216771614564353/" target="_blank">Design for a Better World</a>.
 			   											
 ✤ <a class="goto-social" href="https://echoesapp.io" target="_blank">Echoes</a> is a web application for exploring Spotify music streaming stats. Build on Spotify APIs and SDKs, Echoes lets you see your top artists, songs and discover more amazing music.
 											
