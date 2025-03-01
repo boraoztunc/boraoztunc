@@ -1,7 +1,12 @@
 # Hello, World! 👋
 ![matrix-neo-wake-up](https://github.com/user-attachments/assets/7ba008fb-bfb9-437b-84e7-4721c34dd665)
 
-<br>I'm a multidisciplinary creative working independently for over 17 years, building brands and developing digital products.
+<br>I'm a multidisciplinary creative working independently for over 18 years, creating brands and building digital products.
+
+**Works**
+<br>‣ <a href="https://www.behance.net/boraoztunc" target="_blank">Behance</a>
+<br>‣ <a href="https://vimeo.com/boraoztunc" target="_blank">Vimeo</a>
+<br>‣ <a href="https://blog.boraoztunc.net/" target="_blank">Blog</a>
 
 **Projects**
 <br>‣ [artconnects.club](https://artconnects.club/)
@@ -12,11 +17,6 @@
 <br>‣ <a href="https://www.linkedin.com/in/boraoztunc/" target="_blank">LinkedIn</a>
 <br>‣ <a href="https://bsky.app/profile/borakaizen.bsky.social" target="_blank">Bluesky</a>
 <br>‣ <a href="https://substack.com/@borakaizen" target="_blank">Substack</a>
-											
-**Works**
-<br>‣ <a href="https://www.behance.net/boraoztunc" target="_blank">Behance</a>
-<br>‣ <a href="https://vimeo.com/boraoztunc" target="_blank">Vimeo</a>
-<br>‣ <a href="https://blog.boraoztunc.net/" target="_blank">Blog</a>
 
 **Press**
 <br>‣ <a class="goto-social" href="https://ekip.tumblr.com/post/170413326044/tumblrdan-y%C3%BCzler-bora-%C3%B6ztun%C3%A7-tumblrdan" target="_blank">Tumblr'dan Yüzler: Bora Öztunç</a>
