@@ -1,7 +1,7 @@
 # Hello, World! 👋
 ![matrix-neo-wake-up](https://github.com/user-attachments/assets/7ba008fb-bfb9-437b-84e7-4721c34dd665)
 
-<br>I'm a multidisciplinary creative working independently for over 18 years, creating brands and building digital products.
+<br>I'm a multidisciplinary creative working independently for the last 20 years, creating brands and building digital products.
 
 **Works**
 <br>‣ <a href="https://www.behance.net/boraoztunc" target="_blank">Behance</a>
@@ -9,9 +9,10 @@
 <br>‣ <a href="https://blog.boraoztunc.net/" target="_blank">Blog</a>
 
 **Projects**
-<br>‣ [artconnects.club](https://artconnects.club/)
+<br>‣ [ArtConnects](https://artconnects.club)
 <br>‣ [1984.design](https://1984.design)
-<br>‣ [echoesapp.io](https://echoesapp.io)
+<br>‣ [Echoes](https://echoesapp.io)
+<br>‣ [Bookmarker](https://www.bookmarker.cc)
 
 **Connect**
 <br>‣ <a href="https://www.linkedin.com/in/boraoztunc/" target="_blank">LinkedIn</a>
