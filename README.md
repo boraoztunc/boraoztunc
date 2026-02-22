@@ -9,10 +9,9 @@
 <br>‣ <a href="https://blog.boraoztunc.net/" target="_blank">Blog</a>
 
 **Projects**
+<br>‣ [Bookmarker](https://www.bookmarker.cc)
 <br>‣ [ArtConnects](https://artconnects.club)
 <br>‣ [1984.design](https://1984.design)
-<br>‣ [Echoes](https://echoesapp.io)
-<br>‣ [Bookmarker](https://www.bookmarker.cc)
 
 **Connect**
 <br>‣ <a href="https://www.linkedin.com/in/boraoztunc/" target="_blank">LinkedIn</a>
